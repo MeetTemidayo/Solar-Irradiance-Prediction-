@@ -1,2 +1,2 @@
 # Solar-Irradiance-Prediction-
-To predict weather for a solar project
+weather prediction for a solar project in Ekiti state
